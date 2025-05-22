@@ -1,0 +1,163 @@
+Instruments,Family,Note,Code
+Accordion,Keyboard,,ACC
+Alp Horn,National/Folk,,ALP
+Alto Clarinet,Woodwind,,ACL
+Alto Flute,Woodwind,,AFL
+Alto Horn,Brass,,AHN
+Alto Recorder,Early Music,,ARC
+Alto Saxophone,Woodwind,,ASX
+Alto Voice,Voice,,ALT
+Amplifier,Electronic,,AMP
+Bagpipes,National/Folk,,BAG
+Balalaika,National/Folk,,BKA
+Bamboo Flute,National/Folk,same as Dizi or D'Tzu,BBF
+Bandoneon,Keyboard,,BDN
+Banjo,String,,BNJ
+Baritone Horn,Brass,,BAR
+Baritone Saxophone,Woodwind,,BSX
+Baritone Voice,Voice,,BTN
+Baroque Flute,Early Music,,BQF
+Bass Baritone,Voice,,BBT
+Bass Clarinet,Woodwind,,BCL
+Bass Drum,Percussion,,BDR
+Bass Flute,Woodwind,,BFT
+Bass Guitar,String,,BGT
+Bass Oboe,Woodwind,,BOB
+Bass Recorder,Early Music,,BRC
+Bass Saxophone,Woodwind,,BSP
+Bass Trombone,Brass,,BRT
+Bass Voice,Voice,,BSS
+Basset Horn,Woodwind,,BHN
+Bassoon,Woodwind,,BSN
+Bells,Percussion,,BEL
+Bongos,Percussion,,BNG
+Boy Soprano,Voice,,BOY
+Bugle,Brass,,BGL
+Carillon,Percussion,,CAR
+Castanets,Percussion,,CST
+Celesta,Keyboard,,CEL
+Chimes,Percussion,same as ‘tubular bells’,CHM
+Cimbalom,National/Folk,,CIM
+Clarinet,Woodwind,,CLR
+Clavichord,Keyboard,,CVD
+Computer,Electronic,,COM
+Concertina,Misc.,,CNB
+Congas,Percussion,,CNG
+Contra Bassoon,Woodwind,,CBN
+Contrabass Clarinet,Woodwind,,CBC
+Contralto Clarinet,Woodwind,Same as ‘Contrabass Clarinet in Eb’,CCL
+Contralto Voice,Voice,,CAL
+Cornet,Brass,,CNT
+Countertenor Voice,Voice,,CTN
+Cymbals,Percussion,,CYM
+Didjeridu,National/Folk,,DIJ
+Dizi/D'Tzu,National/Folk,,DIZ
+Djembe,National/Folk,,DJM
+Double Bass,String,,BAS
+Drum,Percussion,,DRM
+Drum Kit/Drum Set,Percussion,,DRK
+Dulcimer,National/Folk,,DUL
+E-Flat Clarinet,Woodwind,,EFC
+Electric Bass Guitar,String,,EBG
+Electric Guitar,String,,EGT
+Electronic Organ,Keyboard,,EOG
+"Electronics, Live",Electronic,,ELL
+"Electronics, Pre-recorded",Electronic,,ELP
+English Horn,Woodwind,,EHN
+Erhu,National/Folk,,ERH
+Euphonium,Brass,,EUP
+Flugelhorn,Brass,,FLG
+Flute,Woodwind,,FLT
+French Horn,Brass,,FRN
+Glass Harmonica,Misc.,,GHM
+Glass Harp,Misc.,,GHP
+Glockenspiel,Percussion,,GLS
+Gong,Percussion,,GNG
+Guitar,String,,GTR
+Handbells,Percussion,,HBL
+Harmonica,Misc.,,HAR
+Harmonium,Keyboard,,HRM
+Harp,String,,HRP
+Harpsichord,Early Music,,HPS
+Heckelphone,Woodwind,,HCK
+Horn,Brass,,HRN
+Hurdy-Gurdy,Early Music,,HUR
+Kazoo,National/Folk,,KAZ
+Keyboard,Keyboard,,KEY
+Klavier,Keyboard,,KLV
+Koto,National/Folk,,KOT
+Lute,Early Music,,LUT
+Lyre,Early Music,,LYR
+Mandolin,String,,MAN
+Maracas,National/Folk,,MCS
+Marimba,Percussion,,MAR
+Mbira,National/Folk,,MBR
+Melodica,Misc.,,MEL
+Mezzo Soprano Voice,Voice,,MEZ
+Midi,Electronic,,MID
+Music Box,Misc.,,MSB
+Narrator/Speaker,Voice,,NAR
+Native American Flute,National/Folk,,NAF
+Natural Horn,Early Music,,NHN
+Oboe,Woodwind,,OBO
+Oboe d'Amore,Woodwind,,OBD
+Ondes Martinot,Electronic,,OND
+Organ,Keyboard,,ORG
+Pennywhistle,National/Folk,,PWH
+Percussion,Percussion,,PER
+Piano,Keyboard,,PIA
+Piccolo,Woodwind,,PIC
+Pipa,National/Folk,,PPA
+Prepared Piano,Keyboard,,PRP
+Processor,Electronic,,PRO
+Recorder,Early Music,,REC
+Ruan,National/Folk,,RUA
+Sampler,Electronic,,SAM
+Saxophone,Woodwind,,SAX
+Sequencer,Electronic,,SEQ
+Shakuhachi,National/Folk,,SHK
+Shamisen,National/Folk,,SHM
+Shawm,Early Music,,SHW
+Sho,National/Folk,,SHO
+Sitar,National/Folk,,SIT
+Snare drum,Percussion,,SDM
+Sopranino Recorder,Early Music,,SNR
+Sopranino Saxophone,Woodwind,,SNS
+Soprano Recorder,Early Music,,SRC
+Soprano Saxophone,Woodwind,,SSX
+Soprano Voice,Voice,,SOP
+Sousaphone,Brass,,SOU
+Spoons,National/Folk,,SPO
+Steel drums,Percussion,,STD
+Synthesizer,Electronic,,SYN
+Tabla,National/Folk,,TAB
+Tambour,Percussion,,TAM
+Tambourine,Percussion,,TMN
+Tamtam,Percussion,,TTM
+Tape,Electronic,,TAP
+Tenor Horn,Brass,,THN
+Tenor Recorder,Early Music,,TRC
+Tenor Saxophone,Woodwind,,TSX
+Tenor Voice,Voice,,TEN
+Theremin,Electronic,,THE
+Timpani,Percussion,,TIM
+Toy Piano,Keyboard,,TYP
+Triangle,Percussion,,TRI
+Trombone,Brass,,TMB
+Trumpet,Brass,,TRM
+Tuba,Brass,,TBA
+Ukulele,String,,UKE
+Vibraphone,Percussion,,VIB
+Video,Electronic,,VID
+Viola,String,,VLA
+Viola Da Gamba,Early Music,,VDG
+Violin,String,,VLN
+Violoncello,String,,VCL
+Voice,Voice,,VOC
+Wagner Tuba,Brass,,WTB
+Whistle,Misc.,,WHS
+Wood block,Percussion,,WBK
+Xylophone,Percussion,,XYL
+Yang Qin,National/Folk,,YQN
+Zheng,National/Folk,,ZHG
+Zither,National/Folk,,ZIT

@@ -1,0 +1,7 @@
+Arrangement Type,Description,Code
+New,New music added to existing music,NEW
+,,
+Arrangement  ,A version of a work in which musical elements have been modified  ,ARR
+Addition ,Music added to a pre-existing text,ADM
+Unspecified arrangement,"To be used when it is known the work is an arrangement, but no further details are available",UNS
+Original ,Music used in its original form,ORI

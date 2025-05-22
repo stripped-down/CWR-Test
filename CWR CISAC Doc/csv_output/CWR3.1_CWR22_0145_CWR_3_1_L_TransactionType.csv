@@ -1,0 +1,8 @@
+Transaction Type,Description,Code
+Acknowledgment of WRK Transaction,"A transaction which allows for the acknowledgement of WRK transactions from a Recipient back to a Submitter, and for the Recipient to provide an on-going record of the related works status within the Recipient’s systems.",ACK
+Submission of Work Details for Registration, A transaction which allows a submitter to communicate to a recipient (or multiple recipients) details of a musical work for the first time or to subsequently communicate the revised details.,WRK
+Request for Confirmation/Allocation of ISWC,"A transaction sent to a society, to the ISWC Resolution Service or to the ISWC Allocation Service requesting confirmation or allocation of an ISWC to a work.",ISR
+Existing Work in Conflict with Submitted WRK,A transaction sent from a Recipient to a Submitter to provide information on the details of the work that is in conflict with the details of the WRK transaction sent by the Submitter.,EXC
+Confirmation of ISWC,A transaction which confirms the Preferred ISWC for a musical work.,ISA
+Licence Reporting Transaction,"A transaction which allows Submitters to report to Recipients details of licensed usages of a work; including new or existing recordings, live performers, other work identifiers and synchronisations in audio visual productions.   ",LIC
+Retraction of WRK Transaction ,A transaction which allows a submitter to communicate to a recipient (or multiple recipients) that a recently submitted WRK transaction was invalid and that the publishers indicated on the WRK transaction make no claim to the work in question.,DRW

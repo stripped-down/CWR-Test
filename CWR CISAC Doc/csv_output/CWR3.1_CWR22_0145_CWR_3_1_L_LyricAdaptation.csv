@@ -1,0 +1,11 @@
+Adaptation Type,Description,Code
+New ,New lyrics added to the existing lyrics,NEW
+Modification,Lyrics modified in the original language  ,MOD
+,No lyrics have been included in the work,NON
+,,
+Original ,Lyrics have been used in the original form,ORI
+,,
+Replacement ,Lyrics have been totally replaced,REP
+Addition,Lyrics added to a pre-existing instrumental work,ADL
+Unspecified,Details of the lyric adaptation are not known at this time,UNS
+Translation  ,Lyrics translated into another language  ,TRA

@@ -1,0 +1,52 @@
+Instrumentation,Description,Code
+Audience,,AUD
+Band,"Large group of woodwinds and brass with optional percussion, keyboard, and double bass",BND
+Brass Band,Large group of brasses (approximately 25 players) with optional percussion,BBA
+Brass Choir,Group of brasses with optional percussion (usually 10-20 players),BRC
+Brass Quartet,"2 trumpets, horn, trombone or tuba",BQU
+Brass Quintet,"2 trumpets, horn, trombone, tuba",BQN
+Brass Sextet,"2 trumpets, 2 horns, trombone, tuba",BXT
+Brass Trio,"Trumpet, horn, trombone",BTR
+ ,Mixed group of single players on a part; does not denote size of group,CEN
+Chamber Ensemble  ,,
+Chorus,Multiple voices on a part,CHO
+Chorus and Orchestra,Multiple voices with orchestra,CAO
+"Chorus, Boys’",Multiple boys’ voices on a part,BCH
+"Chorus, Children’s",Multiple treble voices on a part,CCH
+"Chorus, Double",Two choruses,DCH
+"Chorus, Men’s",Multiple men’s voices on a part,MCH
+"Chorus, Mixed",Multiple voices on a part (usually SATB),MXC
+"Chorus, Treble",Multiple children’s voices on a part,TCH
+"Chorus, Unison",Multiple voices on a single part,UCH
+"Chorus, Women’s    ",Multiple women’s voices on a part,WCH
+"Chorus, Youth",Multiple young voices on a part,YCH
+Clarinet Choir,Multiple clarinets (usually 10-20),CLC
+Clarinet Quintet,Clarinet and string quartet,CQN
+Concert Band,"Large group of woodwinds and brass with optional percussion, keyboard, and double bass",CBA
+Flute Choir,Multiple flutes (usually 10-20),FLC
+Gamelan,"Indonesian percussion ensemble, usually including gongs, chimes, mallet percussion, and drums",GML
+Guitar Quartet,4 guitars,GQT
+Horn Choir,Multiple horns (10-20 players),HNC
+Jazz Ensemble,"Multiple saxophones, trumpets, trombones with rhythm section of piano, double bass, drum set, guitar",JZE
+Oboe Quartet,Oboe and string trio,OQU
+"Orchestra, Chamber",Orchestra with fewer winds and strings than full orchestra (usually 20-25 players),COR
+"Orchestra, Full","Large group of multiple strings with woodwinds, brass and percussion",ORC
+"Orchestra, String",Multiple strings on a part (usually 16 or more),SOR
+Percussion Ensemble,Multiple players on various instruments,PCE
+Piano Duo,2 pianists on two pianos, PDU
+Piano Four Hands,2 pianists on one piano,PFH
+Piano Quartet,Piano and string trio,PQU
+Piano Quintet,Piano and string quartet,PQN
+Piano Trio,"Violin, cello, piano",PTR
+Saxophone Quartet,4 saxophones,SQT
+String Octet,Double string quartet,SOC
+String Quartet,"2 violins, viola, cello",SQU
+String Quintet,"2 violins, viola, cello and one other stringed instrument",SQN
+String Trio,"Violin, viola, cello",SGT
+Symphonic Band,"Large group of woodwinds and brass with optional percussion, keyboard, and double bass",SBA
+Trombone  Choir,Multiple trombones (usually 10-20),TBC
+Trumpet Choir,Multiple trumpets (usually 10-20),TPC
+Tuba Choir,Multiple tubas (usually 10-20),TUC
+Wind Ensemble,"Large group of woodwinds and brass with optional percussion, keyboard, and double bass",WEN
+Woodwind Quartet,"Flute, oboe, clarinet, bassoon",WQR
+Woodwind Quintet,"Flute, oboe, clarinet, bassoon, horn",WQN

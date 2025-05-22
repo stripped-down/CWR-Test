@@ -1,0 +1,40 @@
+Type,Description,Code
+Control Record,Transmission Header,HDR
+Control Record,Group Header,GRH
+Control Record,Group Trailer,GRT
+Control Record,Transmission Trailer,TRL
+Transaction Header,Submission of a work details for registration,WRK
+Transaction Header,Retraction of WRK submitted in error,DRW
+Transaction Header,Request for an ISWC from the ISWC Allocation Service or the ISWC Resolution Service,ISR
+Transaction Header,Notification of ISWC assigned to a work,ISA
+Transaction Header,Existing work which is in conflict with a work as submitted,EXC
+Transaction Header,Provides acknowledgment of WRK or DRW transactions and subsequent work history,ACK
+Transaction Header,Licensing information relating to an existing work,LIC
+Transaction,Publisher Controlled by Submitter,SPU
+Transaction,Non-Roman Alphabet Publisher Name,NPN
+Transaction,Publisher Territory & Collection,SPT
+Transaction,Non-Controlled Publisher Territory & Collection,OPT
+Transaction,Other Publisher,OPU
+Transaction,Writer Controlled by Submitter,SWR
+Transaction,Non-Roman Alphabet Writer Name,NWN
+Transaction,Writer Territory & Collection,SWT
+Transaction,Other Writer,OWR
+Transaction,Other Writer Territory & Collection,OWT
+Transaction,Publisher for Writer,PWR
+Transaction,Alternative Title,ALT
+Transaction,Non-Roman Alphabet Title,NAT
+Transaction,"Original Work Details for  Excerpts, Composite or Version",OWK
+Transaction,Non-Roman Alphabet Original Work Title,NOT
+Transaction,Non-Roman Alphabet Other Writer Name,NOW
+Transaction,Live Performing Artist,PER
+Transaction,Live Performing Artist in Non-Roman alphabet,NPR
+Transaction,Recording,REC
+Transaction,Recording,NRC
+Transaction,Work Origin,ORN
+Transaction,Instrumentation Summary,INS
+Transaction,Instrumentation Detail,IND
+Transaction,Audio-visual Productions,FTV
+Transaction,Work Code Cross Reference,XRF
+Transaction,Writer Manuscript Shares,MAN
+Transaction,Messages,MSG
+Transaction,Writer for ISR and ISA transactions,WRI

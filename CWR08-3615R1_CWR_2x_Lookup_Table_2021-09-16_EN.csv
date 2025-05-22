@@ -1,0 +1,858 @@
+﻿TABLE_NAME;DESCRIPTION;CODE;DEFINITION;OTHER
+;;;;
+;Agreement Role Code;;;
+Agreement Role Code;Assignor;AS;The entitled party who is assigning the rights to a musical work within an agreement.;
+Agreement Role Code;Acquirer;AC;The entitled party who is acquiring the rights to a musical work within an agreement.;
+;;;;
+;Agreement Type;;;
+Agreement Type;Original Specific;OS;Agreement between the songwriter and original publisher covering a list of specific work(s);
+Agreement Type;Subpublishing Specific;PS;Agreement between two publishers covering a list of specific work(s);
+Agreement Type;Subpublishing General;PG;Agreement between two publishers covering all works in a catalogue;
+Agreement Type;Original General;OG;Agreement between the songwriter and original publisher covering all works in a catalogue;
+;;;;
+;BIEM/CISAC Media Type;;See separate tab for details;
+BIEM/CISAC Media Type;45 rpm 17 cm Single ;S;VINYL;
+BIEM/CISAC Media Type;45 rpm 17 cm EP ;EP;VINYL;
+BIEM/CISAC Media Type;45 rpm (12 inches) Maxi Single ;DS;VINYL;
+BIEM/CISAC Media Type;Disco Single Remix (12 inches);RDS;VINYL;
+BIEM/CISAC Media Type;Maxi Single Remix (7 inches);RMS;VINYL;
+BIEM/CISAC Media Type;LP 33 rpm 17cm  EP;EPM;VINYL;
+BIEM/CISAC Media Type;LP 33 rpm 25 cm ;MLP;VINYL;
+BIEM/CISAC Media Type;LP 33 rpm 30 cm;LP;VINYL;
+BIEM/CISAC Media Type;LP Compilation;LP2;VINYL;
+BIEM/CISAC Media Type;LP identical to a CD;LP3;VINYL;
+BIEM/CISAC Media Type;LP Compilation identical to a CD Compilation;LP4;VINYL;
+BIEM/CISAC Media Type;CD Single 2 tracks;SCD;COMPACT DISC;
+BIEM/CISAC Media Type;CD Singles 3&5 inches;CDS;COMPACT DISC;
+BIEM/CISAC Media Type;CD Maxi-single;CDM;COMPACT DISC;
+BIEM/CISAC Media Type;CD Maxi single remix;RCD;COMPACT DISC;
+BIEM/CISAC Media Type;CD-LP (5 inches);CD;COMPACT DISC;
+BIEM/CISAC Media Type;CD Compilation;CD2;COMPACT DISC;
+updated by Anders Zetterlund (STIM);SACD;SA;COMPACT DISC;
+BIEM/CISAC Media Type;SACD Compilation;SA2;COMPACT DISC;
+BIEM/CISAC Media Type;CD Extra Single 2 tracks;CES;CD-EXTRA;
+BIEM/CISAC Media Type;CD Extra Single;CXS;CD-EXTRA;
+BIEM/CISAC Media Type;CD Extra Maxi Single;CXM;CD-EXTRA;
+BIEM/CISAC Media Type;CD Extra Maxi Remix;RCE;CD-EXTRA;
+BIEM/CISAC Media Type;CD Extra EP;CEP;CD-EXTRA;
+BIEM/CISAC Media Type;CD Extra LP;CE;CD-EXTRA;
+BIEM/CISAC Media Type;CD Extra Compilation;CE2;CD-EXTRA;
+BIEM/CISAC Media Type;MC single;SMC;MUSICASSETTE;
+BIEM/CISAC Media Type;MC single identical to a CDS;SM2;MUSICASSETTE;
+BIEM/CISAC Media Type;MC maxi;MMC;MUSICASSETTE;
+BIEM/CISAC Media Type;MC EP;EMC;MUSICASSETTE;
+BIEM/CISAC Media Type;MC Remix;RMC;MUSICASSETTE;
+BIEM/CISAC Media Type;MC;MCP;MUSICASSETTE;
+BIEM/CISAC Media Type;MC LP;MC;MUSICASSETTE;
+BIEM/CISAC Media Type;MC Compilation;MC2;MUSICASSETTE;
+BIEM/CISAC Media Type;MC identical to a CD;MC3;MUSICASSETTE;
+BIEM/CISAC Media Type;MC Compilation identical to a CD compilation;MC4;MUSICASSETTE;
+BIEM/CISAC Media Type;Double MC;DMC;MUSICASSETTE;
+BIEM/CISAC Media Type;MD Single/ Maxi Single;MDS;MINIDISC;
+BIEM/CISAC Media Type;MD Maxi Remix;MDR;MINIDISC;
+BIEM/CISAC Media Type;MD EP;MDP;MINIDISC;
+BIEM/CISAC Media Type;MD;MD;MINIDISC;
+BIEM/CISAC Media Type;MD Compilation;MD2;MINIDISC;
+BIEM/CISAC Media Type;DCC;DC;DIGITAL COMPACT CASSETTE;
+BIEM/CISAC Media Type;DCC Compilation;DC2;DIGITAL COMPACT CASSETTE;
+BIEM/CISAC Media Type;DVD-Audio;DV1;DVD;
+BIEM/CISAC Media Type;DVD-Video;DV2;DVD;
+BIEM/CISAC Media Type;DVD-Rom;DV3;DVD;
+BIEM/CISAC Media Type;DVD-Single;DV4;DVD;
+BIEM/CISAC Media Type;Downloading of a title;DW;DOWNLOADING;
+BIEM/CISAC Media Type;Downloading of a Single/Maxi Single;DM;DOWNLOADING;
+BIEM/CISAC Media Type;Downloading of  LP;DL;DOWNLOADING;
+;;;;
+;BLTVR (Background, Logo, Theme, Visual, Rolled up Cue);;;
+BLTVR (Background, Logo, Theme, Visual, Rolled up Cue);Background;B;Music which is dubbed in for effect. It is not seen to be heard by the actors or performers in an audio-visual work and it is not the title or signature music;
+BLTVR (Background, Logo, Theme, Visual, Rolled up Cue);Logo;L;Logo Music is an aural means of identification.  It indicates the source or ownership of a product (e.g., motion picture, television series, etc.) , service or entity.  Such music is usually, but not necessarily, performed with the owner's (e.g., film producer's or distributor's)visual logo and/or trademark.;
+BLTVR (Background, Logo, Theme, Visual, Rolled up Cue);Rolled up Cue;R;"Cues where the writers and ownership information are the same as each other and it is desirable to make a collated single entry. 
+The individual constituent cue titles are not the same. ";
+BLTVR (Background, Logo, Theme, Visual, Rolled up Cue);Theme;T;Music which is the main title music used at the start or end of the audio-visual work;
+BLTVR (Background, Logo, Theme, Visual, Rolled up Cue);Visual;V;Music from an on screen performance;
+;;;;
+;CIS Language Code;;;
+CIS Language Code;(Afan) Oromo;OM;;
+CIS Language Code;Abkhazian;AB;;
+CIS Language Code;Afar;AA;;
+CIS Language Code;Afrikaans;AF;;
+CIS Language Code;Albanian;SQ;;
+CIS Language Code;Amharic;AM;;
+CIS Language Code;Arabic;AR;;
+CIS Language Code;Armenian;HY;;
+CIS Language Code;Assamese;AS;;
+CIS Language Code;Aymara;AY;;
+CIS Language Code;Azerbaijani;AZ;;
+CIS Language Code;Bashkir;BA;;
+CIS Language Code;Basque;EU;;
+CIS Language Code;Bengali;BN;;
+CIS Language Code;Bhutani;DZ;;
+CIS Language Code;Bihari;BH;;
+CIS Language Code;Bislama;BI;;
+CIS Language Code;Breton;BR;;
+CIS Language Code;Bulgarian;BG;;
+CIS Language Code;Burmese;MY;;
+CIS Language Code;Byelorussian;BE;;
+CIS Language Code;Cambodian;KM;;
+CIS Language Code;Catalan;CA;;
+CIS Language Code;Chinese;ZH;;
+CIS Language Code;Corsican;CO;;
+CIS Language Code;Croatian;HR;;
+CIS Language Code;Czech;CS;;
+CIS Language Code;Danish;DA;;
+CIS Language Code;Dutch;NL;;
+CIS Language Code;English;EN;;
+CIS Language Code;Esperanto;EO;;
+CIS Language Code;Estonian;ET;;
+CIS Language Code;Faeroese;FO;;
+CIS Language Code;Farsi;FA;;
+CIS Language Code;Fiji;FJ;;
+CIS Language Code;Finnish;FI;;
+CIS Language Code;French;FR;;
+CIS Language Code;Frisian;FY;;
+CIS Language Code;Galician;GL;;
+CIS Language Code;Georgian;KA;;
+CIS Language Code;German;DE;;
+CIS Language Code;Greek;EL;;
+CIS Language Code;Greenlandic;KL;;
+CIS Language Code;Guarani;GN;;
+CIS Language Code;Gujarati;GU;;
+CIS Language Code;Hausa;HA;;
+CIS Language Code;Hawaii;HW;Added at the request of the publishers;
+CIS Language Code;Hebrew;IW;;
+CIS Language Code;Hindi;HI;;
+CIS Language Code;Hungarian;HU;;
+CIS Language Code;Icelandic;IS;;
+CIS Language Code;Indonesian;IN;;
+CIS Language Code;Interlingua;IA;;
+CIS Language Code;Interlingue;IE;;
+CIS Language Code;Inupiak;IK;;
+CIS Language Code;Irish;GA;;
+CIS Language Code;Italian;IT;;
+CIS Language Code;Japanese;JA;;
+CIS Language Code;Javanese;JW;;
+CIS Language Code;Kannada;KN;;
+CIS Language Code;Kashmiri;KS;;
+CIS Language Code;Kazakh;KK;;
+CIS Language Code;Kinyarwanda;RW;;
+CIS Language Code;Kirghiz;KY;;
+CIS Language Code;Kirundi;RN;;
+CIS Language Code;Korean;KO;;
+CIS Language Code;Kurdish;KU;;
+CIS Language Code;Laothian;LO;;
+CIS Language Code;Latin;LA;;
+CIS Language Code;Latvian;LV;;
+CIS Language Code;Lingala;LN;;
+CIS Language Code;Lithuanian;LT;;
+CIS Language Code;Macedonian;MK;;
+CIS Language Code;Malagasy;MG;;
+CIS Language Code;Malay;MS;;
+CIS Language Code;Malayalam;ML;;
+CIS Language Code;Maltese;MT;;
+CIS Language Code;Maori;MI;;
+CIS Language Code;Marathi;MR;;
+CIS Language Code;Moldavian;MO;;
+CIS Language Code;Mongolian;MN;;
+CIS Language Code;Nauru;NA;;
+CIS Language Code;Ndebele;ND;;
+CIS Language Code;Nepali;NE;;
+CIS Language Code;North Sotho;NS ;;
+CIS Language Code;Norwegian;NO;;
+CIS Language Code;Occitan;OC;;
+CIS Language Code;Oriya;OR;;
+CIS Language Code;Oromo;OM;;
+CIS Language Code;Papiamento ;PM;native, unofficial language of the southern islands of the Netherlands Antilles-Curacao, Aruba, and Bonaire;
+CIS Language Code;Pashto;PS;;
+CIS Language Code;Polish;PL;;
+CIS Language Code;Portuguese;PT;;
+CIS Language Code;Punjabi;PA;;
+CIS Language Code;Quechua;QU;;
+CIS Language Code;Rhaeto-Romance;RM;;
+CIS Language Code;Romanian;RO;;
+CIS Language Code;Russian;RU;;
+CIS Language Code;Samoan;SM;;
+CIS Language Code;Sangro;SG;;
+CIS Language Code;Sanskrit;SA;;
+CIS Language Code;Scots Gaelic;GD;;
+CIS Language Code;Serbian;SR;;
+CIS Language Code;Serbo-Croatian;SH;;
+CIS Language Code;Sesotho;ST;;
+CIS Language Code;Setswana;TN;;
+CIS Language Code;Shona;SN;;
+CIS Language Code;Sindhi;SD;;
+CIS Language Code;Singhalese;SI;;
+CIS Language Code;Siswati;SS;;
+CIS Language Code;Slovak;SK;;
+CIS Language Code;Slovenian;SL;;
+CIS Language Code;Somali;SO;;
+CIS Language Code;Spanish;ES;;
+CIS Language Code;Sudanese;SU;;
+CIS Language Code;Swahili;SW;;
+CIS Language Code;Swedish;SV;;
+CIS Language Code;Tagalog;TL;;
+CIS Language Code;Tajik;TG;;
+CIS Language Code;Tamil;TA;;
+CIS Language Code;Tatar;TT;;
+CIS Language Code;Telugu;TE;;
+CIS Language Code;Thai;TH;;
+CIS Language Code;Tibetan;BO;;
+CIS Language Code;Tigrinya;TI;;
+CIS Language Code;Tonga;TO;;
+CIS Language Code;Tsonga;TS;;
+CIS Language Code;Turkish;TR;;
+CIS Language Code;Turkmen;TK;;
+CIS Language Code;Twi;TW;;
+CIS Language Code;Ukranian;UK;;
+CIS Language Code;Urdu;UR;;
+CIS Language Code;Uzbek;UZ;;
+CIS Language Code;Venda;VE;;
+CIS Language Code;Vietnamese;VI;;
+CIS Language Code;Volapuk;VO;;
+CIS Language Code;Welsh;CY;;
+CIS Language Code;Wolof;WO;;
+CIS Language Code;Xhosa;XH;;
+CIS Language Code;Yiddish;JI;;
+CIS Language Code;Yoruba;YO;;
+CIS Language Code;Zulu;ZU;;
+;;;;
+;Composite Type;;;
+Composite Type;Composite of Samples;COS;A composite work containing new material and one or more samples of pre-existing recorded works.;
+Composite Type;Medley;MED;A continuous and sequential combination of existing works or excerpts.;
+Composite Type;Potpourri;POT;A composite work with the addition of original material which have been combined to form a new work, that has been published and printed;
+Composite Type;Unspecified Composite;UCO;Works known to be a composite but where the type of composite is unknown.;
+Composite Type;[Non-Composite];[blank];[Not a composite work];
+;;;;
+;CWR Work Type;;;
+CWR Work Type;AAA (Triple A);TA;;
+CWR Work Type;Adult Contemporary;AC;;
+CWR Work Type;Album Oriented Rock (AOR);AR;;
+CWR Work Type;Alternative Music;AL;;
+CWR Work Type;Americana;AM;;
+CWR Work Type;Band;BD;;
+CWR Work Type;Bluegrass Music;BL;;
+CWR Work Type;Children’s Music;CD;;
+CWR Work Type;Classical Music;CL;;
+CWR Work Type;Contemporary Christian;CC;;
+CWR Work Type;Country Music;CT;;
+CWR Work Type;Dance;DN;;
+CWR Work Type;Film/ Television Music;FM;;
+CWR Work Type;Folk Music;FK;;
+CWR Work Type;Gospel (Black);BG;;
+CWR Work Type;Gospel (Southern);SG;;
+CWR Work Type;Jazz Music;JZ;;
+CWR Work Type;Jingles;JG;;
+CWR Work Type;Latin;LN;;
+CWR Work Type;Latina;LA;;
+CWR Work Type;New Age;NA;;
+CWR Work Type;Opera;OP;;
+CWR Work Type;Polka Music;PK;;
+CWR Work Type;Pop Music;PP;;
+CWR Work Type;Rap Music;RP;;
+CWR Work Type;Rock Music;RK;;
+CWR Work Type;Rhythm and Blues;RB;;
+CWR Work Type;Sacred;SD;;
+CWR Work Type;Symphonic;SY;;
+;;;;
+;Dialect;;See ISO 639-2(T);
+;;;;
+;Excerpt Type;;;
+Excerpt Type;Movement;MOV;A principal division of a musical work.;
+Excerpt Type;Unspecified Excerpt;UEX;A work that is known to be an excerpt from another work, however the type of excerpt is unknown.;
+Excerpt Type;[Non-Excerpt];[blank];[Not an excerpt];
+;;;;
+;Instrument;;;Family
+Instrument;Accordion;ACC;;Keyboard
+Instrument;Alp Horn;ALP;;National/Folk
+Instrument;Alto Clarinet;ACL;;Woodwind
+Instrument;Alto Flute;AFL;;Woodwind
+Instrument;Alto Horn;AHN;;Brass
+Instrument;Alto Recorder;ARC;;Early Music
+Instrument;Alto Saxophone;ASX;;Woodwind
+Instrument;Alto Voice;ALT;;Voice
+Instrument;Amplifier;AMP;;Electronic
+Instrument;Bagpipes;BAG;;National/Folk
+Instrument;Balalaika;BKA;;National/Folk
+Instrument;Bamboo Flute;BBF;same as Dizi or D'Tzu;National/Folk
+Instrument;Bandoneon;BDN;;Keyboard
+Instrument;Banjo;BNJ;;String
+Instrument;Baritone Horn;BAR;;Brass
+Instrument;Baritone Saxophone;BSX;;Woodwind
+Instrument;Baritone Voice;BTN;;Voice
+Instrument;Baroque Flute;BQF;;Early Music
+Instrument;Bass Baritone;BBT;;Voice
+Instrument;Bass Clarinet;BCL;;Woodwind
+Instrument;Bass Drum;BDR;;Percussion
+Instrument;Bass Flute;BFT;;Woodwind
+Instrument;Bass Guitar;BGT;;String
+Instrument;Bass Oboe;BOB;;Woodwind
+Instrument;Bass Recorder;BRC;;Early Music
+Instrument;Bass Saxophone;BSP;;Woodwind
+Instrument;Bass Trombone;BRT;;Brass
+Instrument;Bass Voice;BSS;;Voice
+Instrument;Basset Horn;BHN;;Woodwind
+Instrument;Bassoon;BSN;;Woodwind
+Instrument;Bells;BEL;;Percussion
+Instrument;Bongos;BNG;;Percussion
+Instrument;Boy Soprano;BOY;;Voice
+Instrument;Bugle;BGL;;Brass
+Instrument;Carillon;CAR;;Percussion
+Instrument;Castanets;CST;;Percussion
+Instrument;Celesta;CEL;;Keyboard
+Instrument;Chimes;CHM;same as ‘tubular bells’;Percussion
+Instrument;Cimbalom;CIM;;National/Folk
+Instrument;Clarinet;CLR;;Woodwind
+Instrument;Clavichord;CVD;;Keyboard
+Instrument;Computer;COM;;Electronic
+Instrument;Concertina;CNB;;Misc.
+Instrument;Congas;CNG;;Percussion
+Instrument;Contra Bassoon;CBN;;Woodwind
+Instrument;Contrabass Clarinet;CBC;;Woodwind
+Instrument;Contralto Clarinet;CCL;Same as ‘Contrabass Clarinet in Eb’;Woodwind
+Instrument;Contralto Voice;CAL;;Voice
+Instrument;Cornet;CNT;;Brass
+Instrument;Countertenor Voice;CTN;;Voice
+Instrument;Cymbals;CYM;;Percussion
+Instrument;Didjeridu;DIJ;;National/Folk
+Instrument;Dizi/D'Tzu;DIZ;;National/Folk
+Instrument;Djembe;DJM;;National/Folk
+Instrument;Double Bass;BAS;;String
+Instrument;Drum;DRM;;Percussion
+Instrument;Drum Kit/Drum Set;DRK;;Percussion
+Instrument;Dulcimer;DUL;;National/Folk
+Instrument;E-Flat Clarinet;EFC;;Woodwind
+Instrument;Electric Bass Guitar;EBG;;String
+Instrument;Electric Guitar;EGT;;String
+Instrument;Electronic Organ;EOG;;Keyboard
+Instrument;Electronics, Live;ELL;;Electronic
+Instrument;Electronics, Pre-recorded;ELP;;Electronic
+Instrument;English Horn;EHN;;Woodwind
+Instrument;Erhu;ERH;;National/Folk
+Instrument;Euphonium;EUP;;Brass
+Instrument;Flugelhorn;FLG;;Brass
+Instrument;Flute;FLT;;Woodwind
+Instrument;French Horn;FRN;;Brass
+Instrument;Glass Harmonica;GHM;;Misc.
+Instrument;Glass Harp;GHP;;Misc.
+Instrument;Glockenspiel;GLS;;Percussion
+Instrument;Gong;GNG;;Percussion
+Instrument;Guitar;GTR;;String
+Instrument;Handbells;HBL;;Percussion
+Instrument;Harmonica;HAR;;Misc.
+Instrument;Harmonium;HRM;;Keyboard
+Instrument;Harp;HRP;;String
+Instrument;Harpsichord;HPS;;Early Music
+Instrument;Heckelphone;HCK;;Woodwind
+Instrument;Horn;HRN;;Brass
+Instrument;Hurdy-Gurdy;HUR;;Early Music
+Instrument;Kazoo;KAZ;;National/Folk
+Instrument;Keyboard;KEY;;Keyboard
+Instrument;Klavier;KLV;;Keyboard
+Instrument;Koto;KOT;;National/Folk
+Instrument;Lute;LUT;;Early Music
+Instrument;Lyre;LYR;;Early Music
+Instrument;Mandolin;MAN;;String
+Instrument;Maracas;MCS;;National/Folk
+Instrument;Marimba;MAR;;Percussion
+Instrument;Mbira;MBR;;National/Folk
+Instrument;Melodica;MEL;;Misc.
+Instrument;Mezzo Soprano Voice;MEZ;;Voice
+Instrument;Midi;MID;;Electronic
+Instrument;Music Box;MSB;;Misc.
+Instrument;Narrator/Speaker;NAR;;Voice
+Instrument;Native American Flute;NAF;;National/Folk
+Instrument;Natural Horn;NHN;;Early Music
+Instrument;Oboe;OBO;;Woodwind
+Instrument;Oboe d'Amore;OBD;;Woodwind
+Instrument;Ondes Martinot;OND;;Electronic
+Instrument;Organ;ORG;;Keyboard
+Instrument;Pennywhistle;PWH;;National/Folk
+Instrument;Percussion;PER;;Percussion
+Instrument;Piano;PIA;;Keyboard
+Instrument;Piccolo;PIC;;Woodwind
+Instrument;Pipa;PPA;;National/Folk
+Instrument;Prepared Piano;PRP;;Keyboard
+Instrument;Processor;PRO;;Electronic
+Instrument;Recorder;REC;;Early Music
+Instrument;Ruan;RUA;;National/Folk
+Instrument;Sampler;SAM;;Electronic
+Instrument;Saxophone;SAX;;Woodwind
+Instrument;Sequencer;SEQ;;Electronic
+Instrument;Shakuhachi;SHK;;National/Folk
+Instrument;Shamisen;SHM;;National/Folk
+Instrument;Shawm;SHW;;Early Music
+Instrument;Sho;SHO;;National/Folk
+Instrument;Sitar;SIT;;National/Folk
+Instrument;Snare drum;SDM;;Percussion
+Instrument;Sopranino Recorder;SNR;;Early Music
+Instrument;Sopranino Saxophone;SNS;;Woodwind
+Instrument;Soprano Recorder;SRC;;Early Music
+Instrument;Soprano Saxophone;SSX;;Woodwind
+Instrument;Soprano Voice;SOP;;Voice
+Instrument;Sousaphone;SOU;;Brass
+Instrument;Spoons;SPO;;National/Folk
+Instrument;Steel drums;STD;;Percussion
+Instrument;Synthesizer;SYN;;Electronic
+Instrument;Tabla;TAB;;National/Folk
+Instrument;Tambour;TAM;;Percussion
+Instrument;Tambourine;TMN;;Percussion
+Instrument;Tamtam;TTM;;Percussion
+Instrument;Tape;TAP;;Electronic
+Instrument;Tenor Horn;THN;;Brass
+Instrument;Tenor Recorder;TRC;;Early Music
+Instrument;Tenor Saxophone;TSX;;Woodwind
+Instrument;Tenor Voice;TEN;;Voice
+Instrument;Theremin;THE;;Electronic
+Instrument;Timpani;TIM;;Percussion
+Instrument;Toy Piano;TYP;;Keyboard
+Instrument;Triangle;TRI;;Percussion
+Instrument;Trombone;TMB;;Brass
+Instrument;Trumpet;TRM;;Brass
+Instrument;Tuba;TBA;;Brass
+Instrument;Ukulele;UKE;;String
+Instrument;Vibraphone;VIB;;Percussion
+Instrument;Video;VID;;Electronic
+Instrument;Viola;VLA;;String
+Instrument;Viola Da Gamba;VDG;;Early Music
+Instrument;Violin;VLN;;String
+Instrument;Violoncello;VCL;;String
+Instrument;Voice;VOC;;Voice
+Instrument;Wagner Tuba;WTB;;Brass
+Instrument;Whistle;WHS;;Misc.
+Instrument;Wood block;WBK;;Percussion
+Instrument;Xylophone;XYL;;Percussion
+Instrument;Yang Qin;YQN;;National/Folk
+Instrument;Zheng;ZHG;;National/Folk
+Instrument;Zither;ZIT;;National/Folk
+;;;;
+;Intended Purpose;;;
+Intended Purpose;Commercial / Jingle / Trailer;COM;A short piece of music created for an advertisement, to introduce a programme, or to act as punctuation. ;
+Intended Purpose;Film;FIL;A work originally composed for use in a film production.;
+Intended Purpose;General Usage;GEN;A work originally composed for general usage;
+Intended Purpose;Library Work;LIB;A work recorded for use primarily in audio-visual productions or broadcasts.  ;
+Intended Purpose;Multimedia;MUL;"A work originally composed for use within a multimedia production not intended for broadcast.
+Examples: CDI, CD-ROM.";
+Intended Purpose;Radio;RAD;A work specifically created for use in a radio production.  ;
+Intended Purpose;Television;TEL;A work specifically created for use in a television production.  ;
+Intended Purpose;Theatre;THR;A work specifically created for use in a theatrical production.  ;
+Intended Purpose;Video;VID;A work specifically created for use in a video production.  ;
+;;;;
+;Lyric Adaptation;;;
+Lyric Adaptation;New ;NEW;New lyrics added to the existing lyrics;
+Lyric Adaptation;Modification;MOD;Lyrics modified in the original language  ;
+Lyric Adaptation;None;NON;No lyrics have been included in the work;
+Lyric Adaptation;Original ;ORI;Lyrics have been used in the original form;
+Lyric Adaptation;Replacement  L;REP;Lyrics have been totally replaced;
+Lyric Adaptation;Addition;ADL;Lyrics added to a pre-existing instrumental work;
+Lyric Adaptation;Unspecified;UNS;Details of the lyric adaptation are not known at this time;
+Lyric Adaptation;Translation  ;TRA;Lyrics translated into another language  ;
+;;;;
+;Music Arrangement;;;
+Music Arrangement;New;NEW;New music added to existing music;
+Music Arrangement;Arrangement  ;ARR;A version of a work in which musical elements have been modified  ;
+Music Arrangement;Addition ;ADM;Music added to a pre-existing text;
+Music Arrangement;Unspecified arrangement;UNS;To be used when it is known the work is an arrangement, but no further details are available;
+Music Arrangement;Original ;ORI;Music used in its original form;
+;;;;
+;Musical Work Distribution Category;;;
+Musical Work Distribution Category;Jazz;JAZ;"Music originating in black America from the early 20th century, incorporating strands of Euro-American and African music and frequently containing improvisation.
+For the use of certain societies only.  Societies who do not need “Jazz” for distribution purposes should use the code “Pop” instead.";
+Musical Work Distribution Category;Popular;POP;The musical mainstream, usually song-based and melody-orientated, created for mass consumption.;
+Musical Work Distribution Category;Serious;SER;Classical or art music.;
+Musical Work Distribution Category;Unclassified Distribution Category;UNC;"The catch-all for societies who do not track genres; all works are paid the same regardless of genre.";
+;;;;
+;Publisher Type;;;
+Publisher Type;Acquirer;AQ;A publisher that acquires some or all of the ownership from an Original Publisher, but yet the Original Publisher still controls the work.;
+Publisher Type;Administrator;AM;An interested party that collects royalty payments on behalf of a publisher that it represents.;
+Publisher Type;Income Participant;PA;A person or corporation that receives royalty payments for a work but is not a copyright owner.;
+Publisher Type;Original Publisher;E;The interested party which has acquired by agreement with a composer and/or author rights in one or more works for a stipulated territory and duration.;
+Publisher Type;Substituted Publisher;ES;A publisher acting on behalf of publisher or sub-publisher.;
+Publisher Type;Sub Publisher;SE;The interested party which has acquired by agreement with a publisher rights in one or more works for a stipulated territory and duration.;
+;;;;
+;Recording Technique;;;
+Recording Technique;Analogue;A;;
+Recording Technique;Digital;D;;
+Recording Technique;Unknown;U;;
+;;;;
+;Sender ID Code;;NB:  The Sender ID Codes are now held on the separate ‘Sender ID Code Table’ document.  The lastest version of this document can be downloaded from the CISAC website (www.cisac.org) and searching for ‘CWR Sender ID Code Tables’.;
+;;;;
+;Society Code;;;
+Society Code;DP;0;Public Domain;
+Society Code;ACUM;1;Israel;
+Society Code;ADDAF;2;Brazil;
+Society Code;AEPI;3;Greece;
+Society Code;AGADU;4;Uruguay;
+Society Code;AKM;5;Austria;
+Society Code;BUCUDA;6;Central Afr Rep;
+Society Code;APDAYC;7;Peru;
+Society Code;APRA;8;Australia;
+Society Code;ARTISJUS;9;Hungary;
+Society Code;ASCAP;10;USA;
+Society Code;AUSTRO-MECHANA;11;Austria;
+Society Code;AMCOS;12;Australia;
+Society Code;AWA;13;German Dem Rep;
+Society Code;ARGENTORES;14;Argentina;
+Society Code;APA;15;Paraguay;
+Society Code;BUMDA;16;Mali;
+Society Code;AMRA;17;USA;
+Society Code;BGDA;18;Guinea;
+Society Code;BMDA;19;Morocco;
+Society Code;SODRAC;20;Canada;
+Society Code;BMI;21;USA;
+Society Code;MCSN;22;Nigeria;
+Society Code;BUMA;23;Netherlands;
+Society Code;BURIDA;24;Ivory Coast;
+Society Code;BSDA;25;Senegal;
+Society Code;CASH;26;Hong Kong;
+Society Code;CAPAC;27;Canada;
+Society Code;LITA;28;Slovakia;
+Society Code;SCD;29;Chile;
+Society Code;AMAR;30;Brazil;
+Society Code;DILIA ;31;Czech Republic;
+Society Code;FILSCAP;32;Philippines;
+Society Code;OMDA;33;Madagascar;
+Society Code;HARRY FOX AGENCY;34;USA;
+Society Code;GEMA;35;German Fed Rep;
+Society Code;IPRS;36;India;
+Society Code;BUBEDRA;37;Benin;
+Society Code;JASRAC;38;Japan;
+Society Code;MUSICAUTOR;39;Bulgaria;
+Society Code;KODA;40;Denmark;
+Society Code;LITERAR-MECHANA;41;Austria;
+Society Code;LVG;42;Austria;
+Society Code;MCSK;43;Kenya;
+Society Code;MCPS;44;United Kingdom;
+Society Code;BBDA;45;Burkina Faso;
+Society Code;MRS;46;United Kingdom;
+Society Code;BCDA;47;Congo;
+Society Code;NCB;48;Scandinavia;
+Society Code;ONDA;49;Algeria;
+Society Code;OSA;50;Czech Republic;
+Society Code;PROLITTERIS;51;Switzerland;
+Society Code;PRS;52;United Kingdom;
+Society Code;PROCAN;53;Canada;
+Society Code;ALCS;54;United Kingdom;
+Society Code;SABAM;55;Belgium;
+Society Code;SACD;56;France;
+Society Code;SACERAU;57;Egypt;
+Society Code;SACEM;58;France;
+Society Code;SACM;59;Mexico;
+Society Code;SACVEN;60;Venezuela;
+Society Code;SADAIC;61;Argentina;
+Society Code;SADEMBRA;62;Brazil;
+Society Code;SAMRO;63;South Africa;
+Society Code;SOKOJ;64;Yugoslavia;
+Society Code;SAYCE;65;Ecuador;
+Society Code;SBACEM;66;Brazil;
+Society Code;SBAT;67;Brazil;
+Society Code;SDRM;68;France (SDRM should no longer be used.  Please use SACEM 058 instead);
+Society Code;SPA;69;Portugal;
+Society Code;SOGEM;70;Mexico;
+Society Code;SESAC;71;USA;
+Society Code;SGAE;72;Spain;
+Society Code;SCAM;73;France;
+Society Code;SIAE;74;Italy;
+Society Code;SUISSIMAGE;75;Switzerland;
+Society Code;ACEMLA;76;Puerto Rico;
+Society Code;STEF;77;Iceland;
+Society Code;STEMRA;78;Netherlands;
+Society Code;STIM;79;Sweden;
+Society Code;SUISA;80;Switzerland;
+Society Code;SARRAL;81;South Africa;
+Society Code;OTPDA;82;Tunisia;
+Society Code;SONECA;83;Zaire;
+Society Code;SAYCO;84;Columbia;
+Society Code;SOZA;85;Slovakia;
+Society Code;SICAM;86;Brazil;
+Society Code;SPACEMF;87;French Polynesia;
+Society Code;CMRRA;88;Canada;
+Society Code;TEOSTO;89;Finland;
+Society Code;TONO;90;Norway;
+Society Code;SSA;91;Switzerland;
+Society Code;SOCINADA;92;Cameroon Rep;
+Society Code;UBC;93;Brazil;
+Society Code;RAO;94;Russia;
+Society Code;VG WORT;95;German;
+Society Code;COTT;96;Trinidad & Tobago;
+Society Code;ZAIKS;97;Poland;
+Society Code;ZIMRA;98;Zimbabwe;
+Society Code;NS;99;;
+Society Code;SOCAN;101;Canada;
+Society Code;NASCAM;102;Namibia;
+Society Code;ACDAM;103;Cuba;
+Society Code;MACP;104;Malaysia;
+Society Code;MASA;105;Mauritius;
+Society Code;COMPASS;106;Singapore;
+Society Code;ACAM;107;Costa Rica;
+Society Code;CHA;108;Taiwan;
+Society Code;KCI;109;Indonesia;
+Society Code;LATGA-A;110;Lithuania;
+Society Code;HDS-ZAMP;111;Croatia;
+Society Code;SAZAS;112;Slovenia;
+Society Code;LAA;113;Latvia;
+Society Code;AGAYC;114;Guatemala;
+Society Code;UCMR-ADA;115;Romania;
+Society Code;EAU;116;Estonia;
+Society Code;MESAM;117;Turkey;
+Society Code;KOMCA;118;South Korea;
+Society Code;MCSC;119;China;
+Society Code;LIRA;120;Netherlands;
+Society Code;VDFS;121;Austria;
+Society Code;AKKA/LAA;122;Latvia;
+Society Code;COSGA;123;Ghana;
+Society Code;COSOMA;124;Malawi;
+Society Code;BNDA;125;Niger;
+Society Code;MCT;126;Thailand;
+Society Code;ALBAUTOR;127;Albania;
+Society Code;IMRO;128;Ireland;
+Society Code;SOBODAYCOM;129;Bolivia;
+Society Code;BUTODRA;130;Togo;
+Society Code;SADA;131;Greece;
+Society Code;BILD-KUNST;132;German Federal Republic;
+Society Code;ZAMCOPS;133;Zambia;
+Society Code;SLPRS;134;Sri Lanka;
+Society Code;SADH;135;Greece;
+Society Code;ZAMP ;136;Macedonia;
+Society Code;SOFAM;137;Belgium;
+Society Code;KOPIOSTO;138;Finland;
+Society Code;COPY-DAN BILLEDKUNST;139;Denmark;
+Society Code;UACRR;140;Ukraine;
+Society Code;ATN;141;Chile (formerly known as GESATCH);
+Society Code;DALRO;142;South Africa;
+Society Code;TEATERAUTOR;143;Bulgaria;
+Society Code;HAA;144;Croatia;
+Society Code;DPRS;145;United Kingdom;
+Society Code;SPAC;146;Panama;
+Society Code;FILMAUTOR;147;Bulgaria;
+Society Code;ADAGP;148;France;
+Society Code;ARS;149;USA;
+Society Code;BEELDRECHT;150;Netherlands;
+Society Code;BONO;151;Norway;
+Society Code;BUS;152;Sweden;
+Society Code;DACS;153;United Kingdom;
+Society Code;HUNGART;154;Hungary;
+Society Code;SOMAAP;155;Mexico;
+Society Code;VAGA;156;USA;
+Society Code;VBK;157;Austria;
+Society Code;VEGAP;158;Spain;
+Society Code;VISCOPY;159;Australia;
+Society Code;RUPIS;160;Belarus;
+Society Code;MUST;161;Taiwan (Province Of China);
+Society Code;AMPAL;162;Australia;
+Society Code;APG-JAPAN;163;Japan;
+Society Code;APSAV;164;Peru;
+Society Code;ATN;165;Chile;
+Society Code;AUTORARTE;166;Venezuela;
+Society Code;BURAFO;167;Netherlands;
+Society Code;CAL;168;Australia;
+Society Code;COSCAP;169;Barbados;
+Society Code;CPSN;170;Nepal;
+Society Code;CREAIMAGEN;171;Chile;
+Society Code;DGA;172;United States;
+Society Code;DIRECTORES;173;Mexico;
+Society Code;FLIM JUS;174;Hungary;
+Society Code;COPYRO;175;Romania;
+Society Code;JACAP;176;Jamaica;
+Society Code;KAZAK;177;Kazakhstan;
+Society Code;KOSA;178;Korea Republic Of;
+Society Code;KUVASTO;179;Finland;
+Society Code;MUSIKEDITION;180;Austria;
+Society Code;NMPA;181;United States;
+Society Code;PAPPRI;182;Indonesia;
+Society Code;SACK;183;Korea Republic Of;
+Society Code;SARTEC;184;Canada;
+Society Code;SESAM;185;France;
+Society Code;SGDL;186;France;
+Society Code;SNAC;187;France;
+Society Code;SOCIETE DE L’IMAGE;188;France;
+Society Code;SOCINPRO;189;Brazil;
+Society Code;SOPE;190;Greece;
+Society Code;SPACQ;191;Canada;
+Society Code;SFF;192;Sweden;
+Society Code;THE SOCIETY OF AUTHORS;193;United Kingdom;
+Society Code;UFFICIO LEGALE;194;Holy See (Vatican City State);
+Society Code;VEVAM;195;Netherlands;
+Society Code;WGA;196;United States;
+Society Code;WGJ;197;Japan;
+Society Code;ZAMP ;198;Slovenia;
+Society Code;ZAPA;199;Poland;
+Society Code;MSG;200;Turkey;
+Society Code;ABRAMUS;201;Brazil;
+Society Code;ASDAC;202;Moldova - Republic Of;
+Society Code;AWGACS;203;Australia;
+Society Code;SAS;204;Georgia;
+Society Code;SODART;205;Canada;
+Society Code;SUOMEN KIRJAILIJALIITTO;206;Finland;
+Society Code;THE AUTHOR'S REGISTRY INC.;207;United States;
+Society Code;SGA;208;Guinea-Bissau;
+Society Code;ARMAUTHOR;209;Armenia;
+Society Code;ACCESS;210;Canada (Formerly CANCOPY);
+Society Code;;211;No Longer In Use;
+Society Code;CSCS;212;Canada;
+Society Code;DRCC;213;Canada;
+Society Code;HMS;214;Saint Lucia;
+Society Code;KYRGYZPATENT;215;Kyrgyzstan;
+Society Code;SQN;216;Bosnia And Herzegovina;
+Society Code;ABRAC;217;Brazil;
+Society Code;ANACIM;218;Brazil;
+Society Code;ASSIM;219;Brazil;
+Society Code;ATIDA;220;Brazil;
+Society Code;SABEM;221;Brazil;
+Society Code;FONOPERU;222;Peru;
+Society Code;COSOTA;223;Tanzania, United Republic Of;
+Society Code;SOMAS;224;Mozambique;
+Society Code;SAIF;225;France;
+Society Code;AACIMH;226;Honduras;
+Society Code;SGACEDOM;227;Dominican Republic;
+Society Code;ROMS;228;Russian Federation;
+Society Code;ICG;229;United States;
+Society Code;ADAVIS;230;Cuba;
+Society Code;AUTVIS;231;Brazil;
+Society Code;GESTOR;232;Czech Republic;
+Society Code;SACEMLUXEMBOURG;233;Luxembourg;
+Society Code;UCOSO;234;Uganda;
+Society Code;SACENC;235;France;
+Society Code;WID CENTRE;300;United States;
+Society Code;GESAC;301;Belgium;
+Society Code;LATINAUTOR;302;Uruguay;
+Society Code;NORD-DOC;303;Sweden;
+Society Code;SONGCODE;304;United States;
+Society Code;IMJV;305;Netherlands;
+Society Code;CCL;306;Trinidad And Tobago;
+Society Code;MISASIA;307;Singapore;
+Society Code;ECAD;308;Brazil;
+Society Code;LATINNET;309;Spain;
+Society Code;DIVA;310;Hong Kong;
+;;;;
+;Special Agreement Indicator ;;NB:  This field has replaced the ‘Reversionary Indicator’ field, and all the codes from that field have been retained for historical reasons.;
+Special Agreement Indicator ;Reversionary Rights;R;;
+Special Agreement Indicator ;Leading Publisher;L;;
+Special Agreement Indicator ;Both Reversionary Rights and Leading Publisher;B;;
+Special Agreement Indicator ;Reversionary Rights;Y;Formerly ‘Yes’ on ‘Reversionary rights field’;
+Special Agreement Indicator ;No Reversionary Rights;N;Formerly ‘No’ on ‘Reversionary rights field’;
+Special Agreement Indicator ;Unknown Reversionary Rights;U;Formerly ‘Unknown’ on ‘Reversionary rights field’;
+;Standard Instrumentation;;;alt aus Word-Dokument
+Standard Instrumentation;Audience;AUD;;Audience
+Standard Instrumentation;Band;BND;Large group of woodwinds and brass with optional percussion, keyboard, and double bass;Band
+Standard Instrumentation;Brass Band;BBA;Large group of brasses (approximately 25 players) with optional percussion;Brass Band
+Standard Instrumentation;Brass Choir;BRC;Group of brasses with optional percussion (usually 10-20 players);Brass Choir
+Standard Instrumentation;Brass Quartet;BQU;2 trumpets, horn, trombone or tuba;Brass Quartet
+Standard Instrumentation;Brass Quintet;BQN;2 trumpets, horn, trombone, tuba;Brass Quintet
+Standard Instrumentation;Brass Sextet;BXT;2 trumpets, 2 horns, trombone, tuba;Brass Sextet
+Standard Instrumentation;Brass Trio;BTR;Trumpet, horn, trombone;Brass Trio
+Standard Instrumentation;Chamber Ensemble  ;CEN;"Mixed group of single players on a part; does not denote size of group";Chamber Ensemble  
+Standard Instrumentation;Chorus;CHO;Multiple voices on a part;Chorus
+Standard Instrumentation;Chorus and Orchestra;CAO;Multiple voices with orchestra;Chorus and Orchestra
+Standard Instrumentation;Chorus, Boys’;BCH;Multiple boys’ voices on a part;Chorus, Boys'
+Standard Instrumentation;Chorus, Children’s;CCH;Multiple treble voices on a part;Chorus, Children's
+Standard Instrumentation;Chorus, Double;DCH;Two choruses;Chorus, Double
+Standard Instrumentation;Chorus, Men’s;MCH;Multiple men’s voices on a part;Chorus, Men's
+Standard Instrumentation;Chorus, Mixed;MXC;Multiple voices on a part (usually SATB);Chorus, Mixed
+Standard Instrumentation;Chorus, Treble;TCH;Multiple children’s voices on a part;Chorus, Treble
+Standard Instrumentation;Chorus, Unison;UCH;Multiple voices on a single part;Chorus, Unison
+Standard Instrumentation;Chorus, Women's;WCH;Multiple women’s voices on a part;Chorus, Women's
+Standard Instrumentation;Chorus, Youth;YCH;Multiple young voices on a part;Chorus, Youth
+Standard Instrumentation;Clarinet Choir;CLC;Multiple clarinets (usually 10-20);Clarinet Choir
+Standard Instrumentation;Clarinet Quintet;CQN;Clarinet and string quartet;Clarinet Quintet
+Standard Instrumentation;Concert Band;CBA;Large group of woodwinds and brass with optional percussion, keyboard, and double bass;Concert Band
+Standard Instrumentation;Flute Choir;FLC;Multiple flutes (usually 10-20);Flute Choir
+Standard Instrumentation;Gamelan;GML;Indonesian percussion ensemble, usually including gongs, chimes, mallet percussion, and drums;Gamelan
+Standard Instrumentation;Guitar Quartet;GQT;4 guitars;Guitar Quartet
+Standard Instrumentation;Horn Choir;HNC;Multiple horns (10-20 players);Horn Choir
+Standard Instrumentation;Jazz Ensemble;JZE;Multiple saxophones, trumpets, trombones with rhythm section of piano, double bass, drum set, guitar;Jazz Ensemble
+Standard Instrumentation;Oboe Quartet;OQU;Oboe and string trio;Oboe Quartet
+Standard Instrumentation;Orchestra, Chamber;COR;Orchestra with fewer winds and strings than full orchestra (usually 20-25 players);Orchestra, Chamber
+Standard Instrumentation;Orchestra, Full;ORC;Large group of multiple strings with woodwinds, brass and percussion;Orchestra, Full
+Standard Instrumentation;Orchestra, String;SOR;Multiple strings on a part (usually 16 or more);Orchestra, String
+Standard Instrumentation;Percussion Ensemble;PCE;Multiple players on various instruments;Percussion Ensemble
+Standard Instrumentation;Piano Duo; PDU;2 pianists on two pianos;Piano Duo
+Standard Instrumentation;Piano Four Hands;PFH;2 pianists on one piano;Piano Four Hands
+Standard Instrumentation;Piano Quartet;PQU;Piano and string trio;Piano Quartet
+Standard Instrumentation;Piano Quintet;PQN;Piano and string quartet;Piano Quintet
+Standard Instrumentation;Piano Trio;PTR;Violin, cello, piano;Piano Trio
+Standard Instrumentation;Saxophone Quartet;SQT;4 saxophones;Saxophone Quartet
+Standard Instrumentation;String Octet;SOC;Double string quartet;String Octet
+Standard Instrumentation;String Quartet;SQU;2 violins, viola, cello;String Quartet
+Standard Instrumentation;String Quintet;SQN;2 violins, viola, cello and one other stringed instrument;String Quintet
+Standard Instrumentation;String Trio;SGT;Violin, viola, cello;String Trio
+Standard Instrumentation;Symphonic Band;SBA;Large group of woodwinds and brass with optional percussion, keyboard, and double bass;Symphonic Band
+Standard Instrumentation;Trombone  Choir;TBC;Multiple trombones (usually 10-20);Trombone  Choir
+Standard Instrumentation;Trumpet Choir;TPC;Multiple trumpets (usually 10-20);Trumpet Choir
+Standard Instrumentation;Tuba Choir;TUC;Multiple tubas (usually 10-20);Tuba Choir
+Standard Instrumentation;Wind Ensemble;WEN;Large group of woodwinds and brass with optional percussion, keyboard, and double bass;Wind Ensemble
+Standard Instrumentation;Woodwind Quartet;WQR;Flute, oboe, clarinet, bassoon;Woodwind Quartet
+Standard Instrumentation;Woodwind Quintet;WQN;Flute, oboe, clarinet, bassoon, horn;Woodwind Quintet
+;;;;
+;Subject Codes ;;;
+Subject Codes ;Direct Licensing;DL;Instructions for Direct Licensing;
+Subject Codes ;Share Change;SC;Writer added/deleted, share increase or decreased;
+Subject Codes ;Different Work;DW;This is not the same work as XXX;
+Subject Codes ;Inquiry List;IQ;Work contained in Inquiry List of society ;
+Subject Codes ;Requested Work;RQ;Work for which a notification was requested by society;
+Subject Codes ;GEMA;GW;Structured note for shares agreed by authors for performing rights;
+Subject Codes ;SACEM;EW;The Sacem submitter is controlling the entire work;
+;;;;
+;Text Music Relationship;;;
+Text Music Relationship;Music;MUS;Music only (as in an instrumental work or a wordless chorus without text e.g. Daphnis and Cloe).;
+Text Music Relationship;Music and Text;MTX;Music and text combined (as in a vocal and instrumental work such as the musical JESUS CHRIST SUPERSTAR), where both contributions were specifically created for the respective musical composition with words.;
+Text Music Relationship;Text;TXT;Text only.;
+Text Music Relationship;;MTN;Music and text combined (as in a vocal and instrumental work such as an opera), where both contributions were not specifically created for the respective musical composition with words (as in the musical CATS).;
+;;;;
+;TIS Numeric Code;;The latest TIS Territory codes can be found on the CISAC web site;
+;;;;
+;Title Type;;;
+Title Type;Alternative Title;AT;An alternative to an original title.;
+Title Type;First Line of Text;TE;The beginning of a text.;
+Title Type;Formal Title;FT;A standardised title in which the elements are arranged in a pre-determined order. Normally created for classical works.;
+Title Type;Incorrect Title;IT;A spurious or unacceptable title sometimes mistakenly used for identification.;
+Title Type;Original Title;OT;A title given to the work by its creator(s) shown in its original language.;
+Title Type;Original Title Translated;TT;An original title translated into a different language.;
+Title Type;Part Title;PT;A section of a work which is not recognized as an excerpt in its own right and does not have its own ISWC.;
+Title Type;Restricted Title;RT;A title from which all initial articles and punctuation have been removed.;
+Title Type;Extra Search Title;ET;An alternate title created to aid database searching (e.g. where special characters, puns, or slang have been replaced by standardized elements).;
+Title Type;Original Title with National Characters;OL;The Original title of the Work in it’s original language, using ‘accented’ National characters;
+Title Type;Alternative Title with National Characters;AL;An alternatice work title in it’s original language, using ‘accented ‘ National characters.;
+;;;;
+;Transaction Type;;;
+Transaction Type;Acknowledgment;ACK;A transaction sent in response to a transaction received that includes information on the use of the transaction received.;
+Transaction Type;Agreement;AGR;A transaction sent from publishers to societies to provide details of agreements relating to works that the publishers are registering using the NWR or REV transactions.;
+Transaction Type;New Work Registration;NWR;A transaction sent from publishers to societies for the purpose of registering a musical work.;
+Transaction Type;Revised Registration;REV;A transaction sent from publishers to societies for the purpose of revising an existing registration of a musical work.;
+Transaction Type;Notification of ISWC;ISW;A transaction sent from the societies to the publishers to notify of an ISWC allocated to a musical work.;
+Transaction Type;Existing work which is in conflict with a work registration;EXC;A transaction sent from the societies to the publishers to provide details of an existing work that is in conflict with a work registration.;
+Transaction Type;Notification to Co-Publisher;COP;"A notice delivered to any publisher marked as an ""Other Publisher"" on an NWR transaction that has not previously registered the work referred to within the NWR.
+NB:  The COP code is no longer valid within CWR, but this definition has been kept for historical reference.";
+;;;;
+;Transaction Status;;;
+Transaction Status;Conflict;CO;The status assigned to a transaction that has been received, has passed all validity checks, but does not agree with information previously submitted from another supplier.;
+Transaction Status;Duplicate;DU;The status assigned to a transaction that has been received, has passed all validity checks, and exactly matches another transaction previously received from the same submitter.;
+Transaction Status;Transaction Accepted;RA;The transaction has passed all of the mandatory edits.  Any field and record rejects, and status re possible duplicate works will be noted in messages.;
+Transaction Status;Registration Accepted;AS;The registration was accepted as submitted by the publisher and is now ready for payment;
+Transaction Status;Registration Accepted with Changes;AC;The registration was accepted but modifications were made e.g. CAE numbers supplied, OIP info corrected;
+Transaction Status;Rejected;RJ;The status assigned to a transaction that does not meet the editing requirements documented for that transaction type.  Publisher must resubmit.;
+Transaction Status;No Participation;NP;The status assigned to indicate that the receiving society has no interest in the work, and therefore may not have edited the work fully e.g. if BMI received a work that contained only ASCAP interested parties (or vice versa);
+Transaction Status;Claim rejected;RC;The publisher's claim to this work is rejected.;
+;;;;
+; Type of Right;;;
+ Type of Right;Mechanical Right;MEC;The right to record, reproduce and distribute a work on a carrier (CDs, MCs, Films, CD-ROM, etc.);
+ Type of Right;Performing Right;PER;The entitlement to perform musical, literary or dramatic works live or by mechanical means or to recite literary works;
+ Type of Right;Synchronisation Right;SYN;The right to include and combine a work either completely or in parts in timed relation with works of other categories for the creation of an audiovisual, multimedia work or a database;
+;;;;
+;USA License Indicator;;;
+USA License Indicator;ASCAP;A;When this work is performed in the USA, ASCAP has the right to collect.;
+USA License Indicator;BMI;B;When this work is performed in the USA, BMI has the right to collect.;
+USA License Indicator;SESAC;S;When this work is performed in the USA, SESAC has the right to collect.;
+;;;;
+;Version Type;;;
+Version Type;Modified Version of a musical work;MOD;A work resulting from the modification of a musical work.;
+Version Type;Original Work;ORI;The first established form of a work.;
+;;;;
+;Writer Designation;;;
+Writer Designation;Adaptor;AD;The author or one of the authors of an adapted text of a musical work.;
+Writer Designation;Arranger;AR;A modifier of musical elements of a musical work.;
+Writer Designation;Author, Writer, Author of Lyrics;A;The creator or one of the creators of a text of a musical work.;
+Writer Designation;Composer, Writer;C;The creator or one of the creators of the musical elements of a musical work.;
+Writer Designation;Composer/Author;CA;The creator or one of the creators of text and musical elements within a musical work.;
+Writer Designation;Sub Arranger;SR;A creator of arrangements authorized by the Sub-Publisher;
+Writer Designation;Sub Author;SA;The author of text which substitutes or modifies an existing text of musical work.;
+Writer Designation;Translator;TR;A modifier of a text in a different language;
+Writer Designation;Income Participant;PA;A person that receives royalty payments for a work but is not a copyright owner.;
